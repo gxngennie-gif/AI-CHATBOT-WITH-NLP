@@ -59,3 +59,7 @@ Basic structure for FAQ bots.
 
 4.NLP Practice
 To understand text preprocessing.
+
+#output
+
+<img width="1184" height="346" alt="Image" src="https://github.com/user-attachments/assets/c7130d61-b5fe-4e7d-81f0-acc07064ebb3" />
